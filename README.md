@@ -8,11 +8,15 @@
 
 #### Features
 
-* Strings, hashes...
+* Displays time running
+* How many hashes have been generated and how many are left
+* Hashes amount generated in last second
+* Average of hashes generated per second
+* Estimated time left to complete
 
 #### Screenshot
 
-![Screenshot Running Page](https://raw.githubusercontent.com/chrisvel)
+![Screenshot Running Command](/screenshots/screenshot_1.png?raw=true "Running command screenshot")
 
 ### Install & Configuration
 
